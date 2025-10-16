@@ -1,27 +1,26 @@
 # Dev-Toolbox (Java)
 
-A personal collection of algorithms, utilities, design patterns, and coding snippets in Java.  
-Meine persönliche Sammlung von Algorithmen, Utilities, Design-Patterns und Code-Snippets in Java.
+🧰 Sammlung von eigenständigen Java-Utilities.  
+Struktur: **Algorithms · Utils · Patterns · Database**
 
 ---
 
-## 📂 Categories / Kategorien
+## 📂 Kategorien
 
 - [Algorithms](algorithms/README.md)
-- [Patterns](patterns/README.md)
 - [Utils](utils/README.md)
+- [Patterns](patterns/README.md)
 - [Database](database/README.md)
 
 ---
 
-## 📖 Usage / Verwendung
+## 📖 Verwendung
 
-- Simply copy & paste the desired snippet into your project.  
-- Einfach das gewünschte Snippet in das eigene Projekt kopieren.  
+- Einfach den gewünschten Ordner öffnen  
+- `.java`-Datei in eigenes Projekt kopieren  
+- Fertig ✔
 
 ---
 
-## 📝 License / Lizenz
-
-This repository is licensed under the [MIT License](LICENSE).  
-Dieses Repository steht unter der [MIT Lizenz](LICENSE).
+## 📝 Lizenz
+Dieses Repository steht unter der [MIT Lizenz](../LICENSE).
