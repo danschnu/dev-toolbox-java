@@ -5,19 +5,12 @@ Meine persönliche Sammlung von Algorithmen, Utilities, Design-Patterns und Code
 
 ---
 
-## 📂 Contents / Inhalte
+## 📂 Categories / Kategorien
 
-### Algorithms
-- *(coming soon)*
-
-### Patterns
-- *(coming soon)*
-
-### Utils
-- *(coming soon)*
-
-### Database
-- *(coming soon)*
+- [Algorithms](algorithms/README.md)
+- [Patterns](patterns/README.md)
+- [Utils](utils/README.md)
+- [Database](database/README.md)
 
 ---
 
